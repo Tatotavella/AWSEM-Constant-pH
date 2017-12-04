@@ -1,0 +1,12 @@
+#Number of Charged Residues
+25
+#FreqMC			FreqOUT			TotSteps
+5			1000			10000
+#TempIni		TempEnd			pH
+300.0			300.0			7.0
+#TermpH			TermElec		TermSelf
+1			1			1	
+#Alpha_pol		Alpha_npol		r_pol		r_npol
+0.1			0.1			5.0		7.0
+#Alpha_U_Pol		Alpha_U_Npol		N_pol_Max	N_npol_Max
+0.1			0.02			6.0		15.0
