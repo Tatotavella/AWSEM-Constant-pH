@@ -1,8 +1,10 @@
 #Number of titratable residues
-5
+7
 #Letter		pKaRef		SelfPol		SelfNpol
 D		4.0		-0.5		2.5
 E		4.5		-0.6		2.5
 K		10.6		-0.5		2.0
 R		12.0		-0.6		2.2
-H		6.3		-0.3		4.0	
+H		6.3		-0.3		4.0
+X		7.5		0.0		0.0
+Z		3.5		0.0		0.0	

@@ -1,9 +1,9 @@
 #Number of Charged Residues
-25
+5
 #FreqMC			FreqOUT			TotSteps
-5			1000			10000
+5			1			1000
 #TempIni		TempEnd			pH
-300.0			300.0			7.0
+300.0			800.0			10.0
 #TermpH			TermElec		TermSelf
 1			1			1	
 #Alpha_pol		Alpha_npol		r_pol		r_npol
