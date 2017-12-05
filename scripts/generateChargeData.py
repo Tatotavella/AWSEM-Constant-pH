@@ -57,4 +57,5 @@ rnd_chrg = -1 * charges[last_position + 1]
 out_file.write(str(last_position + 2)+'\t\t\t\t'+'Z'+'\t\t'+'-1'+'\t\t\t\t'+str(rnd_chrg)+ '\n')
 total_res_charged += 1
 
+print(total_res_charged)
 out_file.close()
