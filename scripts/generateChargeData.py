@@ -3,6 +3,12 @@ import sys
 from random import *
 randBinList = lambda n: [randint(0,1) for b in range(1,n+1)]
 
+##
+#  Script to generate CHARGE.data file including terminals and
+#  considering E, D, R, K and H as titratable residues. Random
+#  initial charge is placed and total charged residues is 
+#  written to screen.
+##
 
 acid_list = ['E','D']
 base_list = ['R','K','H']
